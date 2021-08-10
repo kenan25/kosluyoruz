@@ -14,8 +14,15 @@
     <section class="container vh-100 d-flex">
         <div class="card w-50 my-auto mx-auto">
             <div class="card-body text-center py-5">
-                <h4 class="card-title" style="color: #ff1a4c !important;">Kodluyoruz Frontend Eğitimine Hoş Geldiniz</h4>
-                <p class="card-text">Türkiye'yi teknolojide bir yetenek merkezi yapmak için gençlere ihtiyaçları olan eğitimi sağlıyoruz.</p>
+                <h3 class="card-title" style="color: #ff1a4c !important;">Muhammet Kenan TAŞ</h3>
+		<h4 class="card-title" style="color: #ff7a4c !important;">Hakkımda</h4>
+                <p class="card-text">20 ylı aşkın süredir kayak yapmaktayım.Futbol ve yüzmeyi severim.</p>
+		<h4 class="card-title" style="color: #ff7a4c !important;">Sevdiğim Diziler</h4>
+		<p class="card-text">Yedi Numara, Bizimkiler.</p>
+
+		<p class="card-text">Yedi Numara, 2000-2003 yılları arasında TRT 1'de yayınlanmış olan komedi türündeki Türk televizyon dizisidir. Fora Film tarafından yapılmıştır. Vikipedi
+İlk bölüm yayın tarihi: 23 Ekim 2000
+Bölüm sayısı: 92</p>
                 <a href="https://www.kodluyoruz.org/" target="_blank" class="btn btn-success" style="background-color: #ff8a6c !important;">Sizde Katılın(Muhammet Kenan TAŞ)</a>
             </div>
         </div>
